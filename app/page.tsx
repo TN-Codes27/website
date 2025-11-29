@@ -11,10 +11,10 @@ export default function Home() {
     >
       <div style={{ textAlign: "center" }}>
         <h1 style={{ fontSize: "2.5rem", marginBottom: "0.5rem" }}>
-          Built By Tarryn N
+          Built By Tarryn 
         </h1>
         <p style={{ fontSize: "1.1rem", opacity: 0.8 }}>
-          Portfolio website coming soon.
+          Portfolio website in development, check back soon!
         </p>
       </div>
     </main>
